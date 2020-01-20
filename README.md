@@ -1,2 +1,2 @@
 # Cubilis_MyFirstGame
-Simple game developed with unity
+Simple game developed in unity
